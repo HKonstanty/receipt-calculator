@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".userDetail.UserDetailActivity1"
+    android:orientation="vertical"
+    android:id="@+id/user_detail_activity">
+
+    <TextView
+        android:id="@+id/user_detail_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="24dp"
+        android:paddingBottom="24dp"
+        android:text="@string/user1_name"
+        android:textAlignment="center"
+        android:textAppearance="?attr/textAppearanceHeadline3" />
+
+    <ImageView
+        android:id="@+id/flower_detail_image"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/user_image_content_description"
+        app:srcCompat="@drawable/ic_add" />
+
+    <TextView
+        android:id="@+id/user_detail_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/user1_number" />
+
+    <TextView
+        android:id="@+id/user_detail_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/user1_email" />
+
+    <Button
+        android:id="@+id/remove_button"
+        style="?attr/materialButtonOutlinedStyle"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/remove_this_user" />
+</LinearLayout>

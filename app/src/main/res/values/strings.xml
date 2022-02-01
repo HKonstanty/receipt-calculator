@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ReceiptApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_user">Insert user detalis</string>
+    <string name="user_name_edit_text">User name</string>
+    <string name="user_number_edit_text">User number</string>
+    <string name="done_button_text">Save</string>
+    <string name="user_email_edit_text">User email</string>
+    <string name="user1_name">Adam</string>
+    <string name="user_image_content_description">User avatar</string>
+    <string name="user1_number">user number</string>
+    <string name="remove_this_user">Remove this user</string>
+    <string name="user1_email">user email</string>
+    <string name="receipt_title">Receipt title</string>
+    <string name="receipt_date">Purchase date</string>
+    <string name="receipt_prize">Receipt prize</string>
+    <string name="receipt_owner">Owner</string>
+    <string name="product_name">Product title</string>
+    <string name="product_prize">Product prize</string>
+    <string name="product_amount">Amount of products</string>
+    <string name="select_debtors">Select debtors</string>
+</resources>

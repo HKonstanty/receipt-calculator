@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333283750606",
+    "project_id": "receiptapp-af740",
+    "storage_bucket": "receiptapp-af740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333283750606:android:0e12211c70774ad691d69f",
+        "android_client_info": {
+          "package_name": "com.example.receiptapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333283750606-klrr1o53rfke7i9qvd1vvrifuvgk03hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlyOoEowFei5UZG0s5iJiQOWPe-KJzN5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333283750606-klrr1o53rfke7i9qvd1vvrifuvgk03hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
