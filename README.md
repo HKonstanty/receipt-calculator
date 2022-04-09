@@ -43,9 +43,9 @@ List the ready features here:
 Application screenshot review
 ### Lista paragonów
 <p align="center">
-  <img src="./screenshot/receipt_list.png" width="250"style="padding:30px 15px">
-  <img src="./screenshot/add_receipt.png" width="250" style="padding:30px 15px">
-  <img src="./screenshot/add_product.png" width="250" style="padding:30px 15px">
+  <img src="./screenshot/receipt_list.png" width="250"style="padding:30px 15px;margin:10px">
+  <img src="./screenshot/add_receipt.png" width="250" style="padding:30px 15px;margin:10px">
+  <img src="./screenshot/add_product.png" width="250" style="padding:30px 15px;margin:10px">
 </p>
 
 ### Lista użytkowników
@@ -53,6 +53,12 @@ Application screenshot review
 <p align="center">
   <img src="./screenshot/users_list.png" width="250" style="padding:30px 15px">
   <img src="./screenshot/add_user.png" width="250" style="padding:30px 15px">
+</p>
+
+### Rozliczenia
+
+<p align="center">
+  <img src="./screenshot/settlements_list.png" width="250" style="padding:30px 15px">
 </p>
 
 
