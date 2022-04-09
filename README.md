@@ -41,12 +41,12 @@ List the ready features here:
 
 ## Screenshots
 Application screenshot review
-<p align="center">
-### Receipt list
+<div align="center">
   <img src="./screenshot/receipt_list.png" width="350">
-### Add new receipt form
+</div>
+<div align="center">
   <img src="./screenshot/receipt_list.png" width="350" >
-</p>
+</div>
 
 
 ## Setup
