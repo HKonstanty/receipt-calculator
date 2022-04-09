@@ -43,9 +43,9 @@ List the ready features here:
 Application screenshot review
 ### Lista paragonów
 <p align="center">
-  <img src="./screenshot/receipt_list.png" width="250"style="padding:30px 15px;margin:10px">
-  <img src="./screenshot/add_receipt.png" width="250" style="padding:30px 15px;margin:10px">
-  <img src="./screenshot/add_product.png" width="250" style="padding:30px 15px;margin:10px">
+  <img src="./screenshot/receipt_list.png" width="250" style="margin:10px">
+  <img src="./screenshot/add_receipt.png" width="250" style="margin:10px">
+  <img src="./screenshot/add_product.png" width="250" style="margin:10px">
 </p>
 
 ### Lista użytkowników
