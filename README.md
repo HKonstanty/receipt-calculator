@@ -40,25 +40,30 @@ List the ready features here:
 * awatar użytkownika
 
 ## Screenshots
-Application screenshot review
-### Lista paragonów
+Application screen review
+### Główne ekrany apliakacji
+Od lewej lista paragonów, lista użytkowników i lista rozliczeń.
 <p align="center">
-  <img src="./screenshot/receipt_list.png" width="250" alt="lista paragonów">
-  <img src="./screenshot/add_receipt.png" width="250" alt="dodanie nowego paragonu">
-  <img src="./screenshot/add_product.png" width="250" alt="dodanie produktu do paragonu">
-</p>
-
-### Lista użytkowników
-
-<p align="center">
+  <img src="./screenshot/receipt_list.png" width="250" >
   <img src="./screenshot/users_list.png" width="250" >
-  <img src="./screenshot/add_user.png" width="250" >
+  <img src="./screenshot/settlements_list.png" width="250" >
 </p>
 
-### Rozliczenia
+### Formularz dodawania nowego paragonu
+Dodając paragon uzupełniamy kto płacił, ile i za kogo. Można również dodać produkty do paragonu, które zostaną
+rozliczone inaczej niż cały paragon.
 
 <p align="center">
-  <img src="./screenshot/settlements_list.png" width="250" style="padding:30px 15px">
+  <img src="./screenshot/add_receipt.png" width="250" >
+  <img src="./screenshot/add_product.png" width="250" >
+</p>
+
+### Add user
+Dodając nowego użytkownika oprócz podstawowych danych możemy ustawić avatara robiąc zdjęcie kamerą
+lub wybierając zdjęcie z galerii.
+<p align="center">
+  <img src="./screenshot/add_user.png" width="250">
+  <img src="./screenshot/add_user_avatar.png" width="250">
 </p>
 
 
