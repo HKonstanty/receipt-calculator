@@ -41,11 +41,16 @@ List the ready features here:
 
 ## Screenshots
 Application screenshot review
+### Lista paragonów
 <p align="center">
   <img src="./screenshot/receipt_list.png" width="350">
+  <img src="./screenshot/add_receipt.png" width="350" >
+  <img src="./screenshot/add_product.png" width="350" >
 </p>
+### Lista użytkowników
 <p align="center">
-  <img src="./screenshot/receipt_list.png" width="350" >
+  <img src="./screenshot/users_list.png" width="350">
+  <img src="./screenshot/add_user.png" width="350" >
 </p>
 
 
