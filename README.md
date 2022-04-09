@@ -43,9 +43,9 @@ List the ready features here:
 Application screenshot review
 <p align="center">
 ### Receipt list
-  <img src="./screenshot/receipt_list" width="350">
+  <img src="./screenshot/receipt_list.png" width="350">
 ### Add new receipt form
-  <img src="./screenshot/receipt_list" width="350" >
+  <img src="./screenshot/receipt_list.png" width="350" >
 </p>
 
 
