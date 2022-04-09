@@ -50,7 +50,11 @@ Application screenshot review
 
 ### Lista użytkowników
 
-
+<p align="center">
+  <img src="./screenshot/receipt_list.png" width="350">
+  <img src="./screenshot/add_receipt.png" width="350" >
+  <img src="./screenshot/add_product.png" width="350" >
+</p>
 
 
 ## Setup
