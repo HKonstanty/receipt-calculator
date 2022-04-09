@@ -33,7 +33,7 @@ List the ready features here:
 * CRUD użytkowników
 * lista paragonów
 * CRUD paragonów
-* dodawanie produktów do paragonu rozlicanych inaczej
+* dodawanie produktów do paragonu rozliczanych inaczej
 * lista rozliczeń
 * wyświetlanie rozliczeń
 * dodawanie zdjęcia paragonu
@@ -43,17 +43,16 @@ List the ready features here:
 Application screenshot review
 ### Lista paragonów
 <p align="center">
-  <img src="./screenshot/receipt_list.png" width="350">
-  <img src="./screenshot/add_receipt.png" width="350" >
-  <img src="./screenshot/add_product.png" width="350" >
+  <img src="./screenshot/receipt_list.png" width="300"style="padding:10px">
+  <img src="./screenshot/add_receipt.png" width="300" style="padding:10px">
+  <img src="./screenshot/add_product.png" width="300" style="padding:10px">
 </p>
 
 ### Lista użytkowników
 
 <p align="center">
-  <img src="./screenshot/receipt_list.png" width="350">
-  <img src="./screenshot/add_receipt.png" width="350" >
-  <img src="./screenshot/add_product.png" width="350" >
+  <img src="./screenshot/users_list.png" width="350" style="padding:10px">
+  <img src="./screenshot/add_user.png" width="350" style="padding:10px">
 </p>
 
 
