@@ -1,5 +1,4 @@
 # Receipt Calculator
-Sytuacje w codziennym życiu zainspirowały mnie do stworzenia aplikacji ułatwijącej prowadzenie rozliczeń.
 Everyday situation were an inspiration to create an app which would help to run settlements.
 
 ## Table of Contents
