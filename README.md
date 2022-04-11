@@ -1,5 +1,6 @@
 # Receipt Calculator
 Sytuacje w codziennym życiu zainspirowały mnie do stworzenia aplikacji ułatwijącej prowadzenie rozliczeń.
+Everyday situation were an inspiration to create an app which would help to run settlements.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,10 +14,10 @@ Sytuacje w codziennym życiu zainspirowały mnie do stworzenia aplikacji ułatwi
 
 
 ## General Information
-Apikacja przewidziana jest dla grupy ludzi, która dzieli się wydatkami między sobą. Zdarzają się sytuacje, kiedy rozliczenie większej liczby paragonów
-bywa kłopotliwe zwłaszcza, gdy wydatki nie są dzielone po równo. Aplikacja _Receipt Calculator_ pozwala wprowadzać paragony oraz użytkowników,
-na ich podstawie oblicza rozliczenia, tak aby uniknąć nadmiarowych transakcji i wświetla je w przejrzysty sposób. 
 
+The application was created for a group of people who share expenses. In some cases sharing costs can be problematic, 
+especially when they are not equal. Receipt Calculator allows to upload receipts and users, and calculate the expenses. 
+The application avoids redundant transactions, and shows the results clearly.
 
 ## Technologies Used
 - Material Design 1.3.0
@@ -29,29 +30,29 @@ na ich podstawie oblicza rozliczenia, tak aby uniknąć nadmiarowych transakcji 
 
 ## Features
 List the ready features here:
-* lista użytkowników
-* CRUD użytkowników
-* lista paragonów
-* CRUD paragonów
-* dodawanie produktów do paragonu rozliczanych inaczej
-* lista rozliczeń
-* wyświetlanie rozliczeń
-* dodawanie zdjęcia paragonu
-* awatar użytkownika
+* users list
+* user CRUD
+* receipts list
+* receipt CRUD
+* adding items settled differntly
+* settlement list
+* displaing settlements
+* uploading receipt picture
+* user avatar
 
 ## Screenshots
-Application screen review
-### Główne ekrany apliakacji
-Od lewej lista paragonów, lista użytkowników i lista rozliczeń.
+Application screen overview
+### Application main screens
+From the left: receipts list, users list, settlement list
 <p align="center">
   <img src="./screenshot/receipt_list.png" width="250" >
   <img src="./screenshot/users_list.png" width="250" >
   <img src="./screenshot/settlements_list.png" width="250" >
 </p>
 
-### Formularz dodawania nowego paragonu
-Dodając paragon uzupełniamy kto płacił, ile i za kogo. Można również dodać produkty do paragonu, które zostaną
-rozliczone inaczej niż cały paragon.
+### Adding new receipt form
+When adding a receipt, we complete who paid, how much and for whom. Items which are settled differently than 
+the entire receipt can be picked up.
 
 <p align="center">
   <img src="./screenshot/add_receipt.png" width="250" >
@@ -59,8 +60,7 @@ rozliczone inaczej niż cały paragon.
 </p>
 
 ### Add user
-Dodając nowego użytkownika oprócz podstawowych danych możemy ustawić avatara robiąc zdjęcie kamerą
-lub wybierając zdjęcie z galerii.
+Adding a new user, except for basic data, an avatar can be set- either by taking a picture with a camera or choosing from a photo gallery.
 <p align="center">
   <img src="./screenshot/add_user.png" width="250">
   <img src="./screenshot/add_user_avatar.png" width="250">
@@ -81,15 +81,15 @@ Project is: _in progress_
 
 ## Room for Improvement
 To do:
-* kategorie wydatków
-* wgląd w szczegóły rozliczeń
-* awatary użytkowników
-* archiwizowanie paragonów
+* expenses categories
+* displaying receipt detalis
+* users avatars
+* archiving receipts
 
-Do poprawy:
-* dodawanie zdjęcia paragonu
-* usprawnić operacje CRUD użytkowników i paragonów
-* wygląd aplikacji/zmienić palete barw
+To improve:
+* adding receipt picture
+* upgading user and receipt CRUD
+* changing color theme 
 
 ## Contact
 Created by [@HKonstanty](https://github.com/HKonstanty/HKonstanty) - feel free to contact me!
